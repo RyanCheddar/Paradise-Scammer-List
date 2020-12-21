@@ -1,8 +1,10 @@
 {
   "Example Scammer UUID": {
     "reported_ign": "IGN of scammer when report was sent",
+    "reported_uuid": "Minecraft UUID of scammer",
     "reported_discord": "Discord ID of scammer when report was sent. Can be null.",
     "report_time": "Epoch timestamp of when the report was verified and inputted into the database. Stored in milliseconds just like the Hypixel API.",
+    "reporter_ign": "IGN of reporter when report was sent",
     "reporter_uuid": "Minecraft UUID of the person who reported the scam. Can be null.",
     "reporter_discord": "Discord ID of the person who reported the scam.",
     
